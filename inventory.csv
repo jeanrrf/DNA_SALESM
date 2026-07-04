@@ -1,0 +1,10 @@
+name,url,visibility,language,default_branch,created_time,updated_time,size,open_issues_count,notes
+salesmartins,https://github.com/jeanrrf/salesmartins,public,Python,master,2025-04-01,2026-03-22,39430,1,Frontend + backend (api.js) com JWT admin
+v2-of-sales-martins,https://github.com/jeanrrf/v2-of-sales-martins,private,TypeScript,main,2025-07-16,2025-07-17,260,0,Docs de integração Shopee; supabaseClient com key hardcoded
+siawshope,https://github.com/jeanrrf/siawshope,private,TypeScript,main,2025-07-19,2025-07-22,569,0,Guia cashback e deploy.sh (Vercel envs)
+BACKEN_NODEJS_SIAW,https://github.com/jeanrrf/BACKEN_NODEJS_SIAW,private,TypeScript,main,2025-05-30,2025-12-20,2952,0,Next API para generate-link; SQL schema shopee_products
+VENDA_SHOPE_OFC,https://github.com/jeanrrf/VENDA_SHOPE_OFC,private,JavaScript,main,2025-03-08,2025-03-13,1591,0,Frontend afiliados (vite)
+SIAW_MARTINS_SALES_PROJECT,https://github.com/jeanrrf/SIAW_MARTINS_SALES_PROJECT,private,JavaScript,master,2025-04-12,2025-04-15,4234,0,Frontend com contact page; deploy Vercel
+SIAW_MARTINS_SALES_FASHION,https://github.com/jeanrrf/SIAW_MARTINS_SALES_FASHION,private,JavaScript,main,2025-04-13,2025-04-13,28567,0,UI catálogo / ProductCatalog
+PRD_SIAW_VERCEL_SHO_MAE,https://github.com/jeanrrf/PRD_SIAW_VERCEL_SHO_MAE,public,JavaScript,main,2025-04-09,2025-04-11,30229,0,Deploy público (prod/demo)
+champion_shope,https://github.com/jeanrrf/champion_shope,private,HTML,master,2025-03-24,2025-03-25,1548,0,Auth Shopee (python) and assets
